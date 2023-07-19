@@ -1,0 +1,15 @@
+{"level":"error","message":"Se necesita clave privada para jwt"}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"MongoDB on..."}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"MongoDB on..."}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"MongoDB on..."}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"date":"Wed Jul 19 2023 14:53:05 GMT+0200 (hora de verano de Europa central)","error":{"message":"connect ECONNREFUSED ::1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"}},"exception":true,"level":"error","message":"unhandledRejection: connect ECONNREFUSED ::1:27017\nMongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n    at _handleConnectionErrors (C:\\Users\\USUARIO\\Desktop\\day3\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at NativeConnection.openUri (C:\\Users\\USUARIO\\Desktop\\day3\\node_modules\\mongoose\\lib\\connection.js:766:11)","os":{"loadavg":[0,0,0],"uptime":8936.656},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\USUARIO\\Desktop\\day3\\src\\app.js"],"cwd":"C:\\Users\\USUARIO\\Desktop\\day3","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":36112762,"external":37068658,"heapTotal":32501760,"heapUsed":29787704,"rss":69341184},"pid":9152,"uid":null,"version":"v18.16.1"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n    at _handleConnectionErrors (C:\\Users\\USUARIO\\Desktop\\day3\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at NativeConnection.openUri (C:\\Users\\USUARIO\\Desktop\\day3\\node_modules\\mongoose\\lib\\connection.js:766:11)","trace":[{"column":11,"file":"C:\\Users\\USUARIO\\Desktop\\day3\\node_modules\\mongoose\\lib\\connection.js","function":"_handleConnectionErrors","line":791,"method":null,"native":false},{"column":11,"file":"C:\\Users\\USUARIO\\Desktop\\day3\\node_modules\\mongoose\\lib\\connection.js","function":"NativeConnection.openUri","line":766,"method":"openUri","native":false}]}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"MongoDB on..."}
+{"level":"info","message":"Server running on  http://localhost:9000/ping"}
+{"level":"info","message":"MongoDB on..."}
